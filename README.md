@@ -1,1 +1,1 @@
-# multi-modal-rag
+# multi-modal-rag-pipeline
